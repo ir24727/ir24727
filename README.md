@@ -86,8 +86,8 @@
 ## 💬 Let's Connect
 - 📧 Email: [13826277973@163.com](mailto:13826277973@163.com)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)  
-- 🌐 GitHub: [Your GitHub](https://github.com/你的GitHub用户名)  
+- 🌐 GitHub: [Your GitHub](https://github.com/ir24727)  
 
 ---
 
-⭐️ From [你的GitHub用户名](https://github.com/你的GitHub用户名)
+⭐️ From [ir24727](https://github.com/ir24727)
