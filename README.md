@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ir24727/ir24727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- 个人主页 README.md -->
 
 <!-- 顶部 Banner / 头像 -->
