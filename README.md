@@ -1,10 +1,5 @@
 <!-- 个人主页 README.md -->
 
-<!-- 顶部 Banner / 头像 -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/你的GitHub用户名" width="120" style="border-radius:50%;" alt="Profile Photo" />
-</p>
-
 <h1 align="center">Hi, I'm WEI LIU 👋</h1>
 <p align="center">
   Incoming FinTech Product Manager | MSc Computer Science | Accounting & Finance Dual Degree
