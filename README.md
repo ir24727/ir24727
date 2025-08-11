@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:13826277973@163.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/你的GitHub用户名"><img src="https://img.shields.io/github/followers/你的GitHub用户名?label=Follow&style=social" /></a>
+  <a href="https://github.com/ir24727"><img src="https://img.shields.io/github/followers/ir24727?label=Follow&style=social" /></a>
 </p>
 
 ---
